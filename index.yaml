@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  python-app-chart:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-10-15T06:02:32.939250467Z"
+    description: A Helm chart for Kubernetes
+    digest: d322d6dea22ad00be13dec1a15cc972dcde91d78e64998b905f8b3f296fd6ce0
+    name: python-app-chart
+    type: application
+    urls:
+    - https://tajgithub24.github.io/python-webapp/python-app-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-10-15T06:02:32.938610823Z"
